@@ -4,13 +4,13 @@ Installation
 Either run
 
 ```
-php composer.phar require --prefer-dist yiister/yii2-gentelella "*"
+php composer.phar require --prefer-dist kuzmiand/gentelella "*"
 ```
 
 or add
 
 ```
-"yiister/yii2-gentelella": "*"
+"kuzmiand/gentelella": "*"
 ```
 
 to the require section of your `composer.json` file.
