@@ -1,0 +1,27 @@
+{
+  "name": "kuzmiand/gentelella",
+  "description": "Free admin template for backend",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension","backend","bootsprap3","admin","gentelella","theme","asset"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrej Kuzminov",
+      "email": "andrej.kuzminov@gmail.com",
+      "homepage": "https://github.com/kuzmiand",
+      "role": "Creator"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "yiisoft/yii2": "~2.0.0",
+    "yiisoft/yii2-bootstrap": "~2.0.0",
+    "rmrevin/yii2-fontawesome": "~2.0",
+    "bower-asset/gentelella": "~1.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "kuzmiand\\gentelella\\": ""
+    }
+  }
+}
